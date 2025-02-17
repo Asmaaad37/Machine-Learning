@@ -1,2 +1,2 @@
 # Machine-Learning
-This Repo contains all the machine learning models that i have build over the years and some i'm working on!!
+Machine learning Models i have build over the years and Some i am currently working on.
